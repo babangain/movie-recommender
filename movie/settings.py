@@ -25,7 +25,7 @@ SECRET_KEY = 'ppvayt@z(wm1mwz=oo%$+rf_bzw-9gj-6*y!7o=1t_pvp0_3k^'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = [ALLOWED_HOSTS = ['movierec145.herokuapp.com']]
+ALLOWED_HOSTS = ['movierec145.herokuapp.com']
 
 
 # Application definition
