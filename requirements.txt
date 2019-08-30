@@ -1,0 +1,11 @@
+numpy
+pandas
+nltk
+gensim
+dj-database-url==0.4.2
+Django
+gunicorn==19.7.1
+psycopg2-binary
+pytz==2017.3
+whitenoise==3.3.1
+
