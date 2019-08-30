@@ -14,6 +14,3 @@ And place in same folder.
 For traing open terminal in directory. And type  
 `pip install -r requirements.txt`  
 Open Training.ipynb file and make changes as necessary
-
-# Other files
-Other files are for Django deployment on heroku.
