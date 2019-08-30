@@ -12,3 +12,6 @@ where 50 is the number of movies you want recommendation.
 For traing open terminal in directory. And type  
 `pip install -r requirements.txt`  
 Open Training.ipynb file and make changes as necessary
+
+# Other files
+Other files are for Django deployment on heroku.
